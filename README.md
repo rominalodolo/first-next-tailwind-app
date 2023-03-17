@@ -45,4 +45,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 `npx tailwindcss init -p` 
 
+## Working Next Project
+![image](https://user-images.githubusercontent.com/83961643/225888840-39b1bf4f-3a30-4d3a-a88d-fdd10771df58.png)
 
