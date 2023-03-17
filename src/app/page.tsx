@@ -5,5 +5,8 @@ export default function Home() {
     <h1 className="text-pink-300">
       Hello world!
     </h1>
+    <h2 className="border-purple-400">
+      My name is Romina
+    </h2>
   )
 }
