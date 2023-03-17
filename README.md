@@ -52,4 +52,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Creating Hello world to play with in styling 
 ![image](https://user-images.githubusercontent.com/83961643/225898616-4129beec-934b-4969-becb-dae63f668b90.png)
 
-Trying out different styling 
+Trying out different styling - Adding my own custom colors
+![image](https://user-images.githubusercontent.com/83961643/225907434-de389832-275b-42f3-ac3e-171be85188aa.png)
+In the tailwind.config file you add your colors in the extend section. If you don't you override the tailwind styling library.
