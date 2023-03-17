@@ -48,3 +48,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Working Next Project
 ![image](https://user-images.githubusercontent.com/83961643/225888840-39b1bf4f-3a30-4d3a-a88d-fdd10771df58.png)
 
+## Deleting the standard template to play with Tailwind
+Creating Hello world to play with in styling 
+![image](https://user-images.githubusercontent.com/83961643/225898616-4129beec-934b-4969-becb-dae63f668b90.png)
+
+Trying out different styling 
