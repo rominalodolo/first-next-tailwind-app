@@ -6,7 +6,7 @@ export default function Home() {
       <h1 className="text-pink-300 border-8 border-x-fuchsia-300 bg-slate-400">
         Hello world!
       </h1>
-      <h2 className="text-brandingMain ">
+      <h2 className="text-brandingMain bg-[#bada55]">
         My name is Romina
       </h2>
   </div>
