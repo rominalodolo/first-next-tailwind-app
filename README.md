@@ -55,3 +55,10 @@ Creating Hello world to play with in styling
 Trying out different styling - Adding my own custom colors
 ![image](https://user-images.githubusercontent.com/83961643/225907434-de389832-275b-42f3-ac3e-171be85188aa.png)
 In the tailwind.config file you add your colors in the extend section. If you don't you override the tailwind styling library.
+![image](https://user-images.githubusercontent.com/83961643/226188864-c71f1fbd-b4f4-4459-aca0-0155c583bd8d.png)
+
+
+Adding a border and custom colours 
+![image](https://user-images.githubusercontent.com/83961643/226188772-f27beb9c-7319-48fb-9a65-ae74dd5ee801.png)
+
+
