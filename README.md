@@ -116,3 +116,10 @@ Now we can see some styling to the p tag:
 Adding the different sizing:
 ![image](https://user-images.githubusercontent.com/83961643/226199571-90d19f3f-19b7-48ad-8427-3809adfe2165.png)
 
+You can also import your own fonts or change the sizing of your fonts. You can *customise*.
+
+Break all class is helpful when responsive design to break each word when the box size changes. 
+
+![image](https://user-images.githubusercontent.com/83961643/226207909-5d72f10e-c5d7-488f-92a0-fe6d3c5c91d4.png)
+
+ 
