@@ -61,4 +61,4 @@ In the tailwind.config file you add your colors in the extend section. If you do
 Adding a border and custom colours 
 ![image](https://user-images.githubusercontent.com/83961643/226188772-f27beb9c-7319-48fb-9a65-ae74dd5ee801.png)
 
-
+You can create your own custom plugins to add into your websites. 
