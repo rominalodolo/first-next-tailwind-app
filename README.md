@@ -53,7 +53,24 @@ Creating Hello world to play with in styling
 ![image](https://user-images.githubusercontent.com/83961643/225898616-4129beec-934b-4969-becb-dae63f668b90.png)
 
 ## [TAILWIND DOCUMENTATION](https://tailwindcss.com/docs/installation)
-
+- [Configuration](https://tailwindcss.com/docs/configuration) 
+- [Preflight](https://tailwindcss.com/docs/preflight)
+- [Layout](https://tailwindcss.com/docs/aspect-ratio)
+- [Flexbox & grid](https://tailwindcss.com/docs/flex-basis)
+- [Spacing](https://tailwindcss.com/docs/padding)
+- [Sizing](https://tailwindcss.com/docs/width)
+- [Typrography](https://tailwindcss.com/docs/font-family)
+- [Backgrounds](https://tailwindcss.com/docs/background-attachment)
+- [Borders](https://tailwindcss.com/docs/border-radius)
+- [Effects](https://tailwindcss.com/docs/box-shadow)
+- [Filters](https://tailwindcss.com/docs/blur)
+- [Tables](https://tailwindcss.com/docs/border-collapse)
+- [Transitions & Animation](https://tailwindcss.com/docs/transition-property)
+- [Transforms](https://tailwindcss.com/docs/scale)
+- [Interactivity](https://tailwindcss.com/docs/accent-color)
+- [SVG](https://tailwindcss.com/docs/fill)
+- [Accessibility](https://tailwindcss.com/docs/screen-readers)
+- [OFFICIAL PLUGINS](https://tailwindcss.com/docs/typography-plugin)
 
 ## Playing around with changing the project with Tailwind 
 Trying out different styling - Adding my own custom colors
