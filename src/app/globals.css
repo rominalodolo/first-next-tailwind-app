@@ -4,6 +4,6 @@
 
 @layer utilities {
     html{ 
-        @apply bg-slate-400 text-brandingMain text-lg font-bold;
+        @apply italic bg-slate-400 text-brandingMain text-lg;
     }
   }
