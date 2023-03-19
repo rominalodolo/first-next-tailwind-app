@@ -81,4 +81,4 @@ You do this in the Global.css file
 You can also chain the classes in the `@apply` in `@layer` when you clear the classes on your `page.tsx` file 
 ![image](https://user-images.githubusercontent.com/83961643/226198098-ebbf0878-2dec-4139-854c-712d37ba60e0.png)
 
-
+You can use multiple CSS files and you can mention them in the `postcss.config.js` file in the plugins section. 
