@@ -106,4 +106,10 @@ You can use multiple CSS files and you can mention them in the `postcss.config.j
 Plugins are your javascript functions which help you write CSS in js.
 
 ## Typography 
+So we can see the headers are the same size 
+We need to manually change these elements
+![image](https://user-images.githubusercontent.com/83961643/226199209-23108181-11e0-4848-9dd4-0f34c4aeb732.png)
+Now we can see some styling to the p tag:
+![image](https://user-images.githubusercontent.com/83961643/226199272-de832c29-e776-44e8-b094-44107d4a9ebc.png)
+
 
