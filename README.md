@@ -67,3 +67,15 @@ You can add tailwind custome styles directly in your class like this
 ` bg-[#bada55]`
 ![image](https://user-images.githubusercontent.com/83961643/226196780-f4bfad48-0e1c-4dac-8e5b-7ad59d638673.png)
 
+If you want to override, have more contorl/POWER you can use the `@layers` directive to add styles to Tailwind's `base` `components` and `utilities` 
+You do this in the Global.css file 
+
+``` 
+@layer utilities {
+  .bg-brand-gradient { /* ... */ }
+}
+```
+![image](https://user-images.githubusercontent.com/83961643/226197761-ba5b3740-dda1-4947-8e75-af8ca6e4a699.png)
+![image](https://user-images.githubusercontent.com/83961643/226197781-7bea8ad7-1a7c-4ed7-8742-ae5962c19ff8.png)
+
+
