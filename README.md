@@ -62,3 +62,8 @@ Adding a border and custom colours
 ![image](https://user-images.githubusercontent.com/83961643/226188772-f27beb9c-7319-48fb-9a65-ae74dd5ee801.png)
 
 You can create your own custom plugins to add into your websites. 
+
+You can add tailwind custome styles directly in your class like this 
+` bg-[#bada55]`
+![image](https://user-images.githubusercontent.com/83961643/226196780-f4bfad48-0e1c-4dac-8e5b-7ad59d638673.png)
+
