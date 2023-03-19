@@ -78,4 +78,7 @@ You do this in the Global.css file
 ![image](https://user-images.githubusercontent.com/83961643/226197761-ba5b3740-dda1-4947-8e75-af8ca6e4a699.png)
 ![image](https://user-images.githubusercontent.com/83961643/226197781-7bea8ad7-1a7c-4ed7-8742-ae5962c19ff8.png)
 
+You can also chain the classes in the `@apply` in `@layer` when you clear the classes on your `page.tsx` file 
+![image](https://user-images.githubusercontent.com/83961643/226198098-ebbf0878-2dec-4139-854c-712d37ba60e0.png)
+
 
