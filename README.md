@@ -109,7 +109,10 @@ Plugins are your javascript functions which help you write CSS in js.
 So we can see the headers are the same size 
 We need to manually change these elements
 ![image](https://user-images.githubusercontent.com/83961643/226199209-23108181-11e0-4848-9dd4-0f34c4aeb732.png)
+
 Now we can see some styling to the p tag:
 ![image](https://user-images.githubusercontent.com/83961643/226199272-de832c29-e776-44e8-b094-44107d4a9ebc.png)
 
+Adding the different sizing:
+![image](https://user-images.githubusercontent.com/83961643/226199571-90d19f3f-19b7-48ad-8427-3809adfe2165.png)
 
